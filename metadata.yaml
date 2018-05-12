@@ -1,0 +1,27 @@
+_repo: The-Ideal-Bartender_13487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bullock, Tom
+    birthdate: 1873
+    deathdate: 1964
+    gutenberg_agent_id: '5074'
+    url: http://www.gutenberg.org/2009/agents/5074
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13487'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Liquors'
+title: The Ideal Bartender
+url: http://www.gutenberg.org/ebooks/13487
