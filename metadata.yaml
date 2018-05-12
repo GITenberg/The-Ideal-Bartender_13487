@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5074'
     url: http://www.gutenberg.org/2009/agents/5074
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13487#The-Ideal-Bartender
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-09-17'
 gutenberg_type: Text
